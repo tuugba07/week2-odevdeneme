@@ -65,3 +65,4 @@ my_tree.add_node("Burdur", 15)
 print(f"Aranan Değer (41): {my_tree.search_node(41)}")
 print(f"Ağaç Eleman Sayısı: {my_tree.size()}")
 print(f"Ağaç Yüksekliği: {my_tree.height()}")
+#deneme
